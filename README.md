@@ -32,3 +32,6 @@ https://github.com/sapphirecheats/sapphire-dks/assets/38113785/37da15a1-991c-45e
 ## __Heres a video of the non DKS mode with keystrokes visible__
 
 https://github.com/sapphirecheats/sapphire-dks/assets/38113785/77d573df-92ce-4f33-920b-a26638fa6f04
+
+## Final Note
+We do not plan to update this at any point in time and are releasing it and keeping it as is. Happy hacking!
