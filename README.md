@@ -1,8 +1,10 @@
-Sapphire DKS is a software recreation of Wootings **"Dynamic Keystrokes"** feature specifically for osu!. It comes pre-packaged with an internal customizable randomization as well as a hold to activate key, a hide menu key, a full stream proof setting, and a special functionality that is a special adaptation of the DKS feature.
+Sapphire DKS is a software recreation of Wooting's **"Dynamic Keystrokes"** feature, designed specifically for the game osu!
 
-Recently, the #3 player 'cloutiful' was banned for using this feature on the Wooting keyboard. The only reason he was caught was due to holdtimes being abnormal, since Wooting does nothing to randomize them. We have created this to work with EVERY keyboard, and be completely undetected during manual review. As of now (6/21/2024) this is currently fully undetected, and can be used on the main server. This may change in the future pending anti-cheat updates.
+It comes pre-packaged with an `internal customizable randomization` as well as a `hold to activate key`, a `hide menu key`, a full `stream proof` setting, and a special functionality that is a special adaptation of the DKS feature.
 
-If you would like to support us or purchase premium products we develop, join **[discord.gg/sapphire](https://discord.sapphire.ac)**, to view our products create an account on **[sapphire.ac](https://sapphire.ac)**
+Recently, the #3 Bancho player 'Cloutiful' was banned for using this feature on the Wooting keyboard. The only reason he was caught was due to his holdtimes being abnormal, since Wooting does nothing to randomize them. We have created this to work with EVERY keyboard and be completely undetected during manual review. As of now (6/21/2024) this is currently **fully undetected** and can be used on Bancho (as well as private servers). This may change in the future depending on anti-cheat updates.
+
+If you would like to support us or purchase premium products we develop, join **[discord.gg/sapphire](https://discord.sapphire.ac)**. To view our products, create an account on **[sapphire.ac](https://sapphire.ac)**
 
 # DKS Configuration Section
 - __**DKS Key**__: This is the key you want to be affected by the DKS mode & the non-DKS mode.
