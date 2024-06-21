@@ -1,5 +1,7 @@
 Sapphire DKS is a software recreation of Wooting's **"Dynamic Keystrokes"** feature, designed specifically for the game osu!
 
+**[Download the latest Sapphire DKS version by clicking here](https://github.com/sapphirecheats/sapphire-dks/releases/tag/Release)**
+
 It comes pre-packaged with an `internal customizable randomization` as well as a `hold to activate key`, a `hide menu key`, a full `stream proof` setting, and a special functionality that is a special adaptation of the DKS feature.
 
 Recently, the #3 Bancho player 'Cloutiful' was banned for using this feature on the Wooting keyboard. The only reason he was caught was due to his holdtimes being abnormal, since Wooting does nothing to randomize them. We have created this to work with EVERY keyboard and be completely undetected during manual review. As of now (6/21/2024) this is currently **fully undetected** and can be used on Bancho (as well as private servers). This may change in the future depending on anti-cheat updates.
